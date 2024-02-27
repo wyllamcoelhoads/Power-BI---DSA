@@ -28,3 +28,9 @@ A modelagem pode ser organizada com a modelagem de daos
 O power bi não é uma ferramenta de armazenamento de dados.
 Um modelo de dados é usado para realizar consultas, analises isso melhora a performaze.
 Um modelo garante a integração de dados.
+
+
+## DICAS
+
+![Imagem6](/Parte%201/Cap03/DIcas_do_power.jpeg)
+
