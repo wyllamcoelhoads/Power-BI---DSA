@@ -19,3 +19,12 @@ O foco do BI é analisar o passado junto de uma analisata de dados busca entende
 A modelagem pode ser organizada com a modelagem de daos 
 
 ![Imagem5](/Parte%201/Cap03/Modelagem_com_BI.png)
+
+
+# Como a modelagem de dados é usado 
+
+![Imagem6](/Parte%201/Cap03/Como_criado_dw.png)
+
+O power bi não é uma ferramenta de armazenamento de dados.
+Um modelo de dados é usado para realizar consultas, analises isso melhora a performaze.
+Um modelo garante a integração de dados.
