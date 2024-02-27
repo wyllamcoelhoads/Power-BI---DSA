@@ -30,7 +30,17 @@ Um modelo de dados é usado para realizar consultas, analises isso melhora a per
 Um modelo garante a integração de dados.
 
 
-## DICAS
+# DICAS
 
 ![Imagem6](/Parte%201/Cap03/DIcas_do_power.jpeg)
+
+
+
+### Laboratorio 02 
+
+# aqui vamos criar uma relação entre tabelas, precisando assim cirar um modelo para a correta analise #  dos dados
+
+![Imagem7](/Parte%201/Cap03/arquivos_de_lab03.jpeg)
+
+
 
