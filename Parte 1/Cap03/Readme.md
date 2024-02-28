@@ -44,3 +44,11 @@ Um modelo garante a integração de dados.
 
 
 
+Resultado do lab pode ser visto nas proximas imagens 
+
+
+![Imagem8](/Parte%201/Cap03/Dashboard02final.jpeg)
+
+Utilizando os dados fornecidos e orientações conseguii gerar esse relatorio e um arquivo .pbix
+extensão essa de arquivos lidos e criados por power bi desctop!
+
