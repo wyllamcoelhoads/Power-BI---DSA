@@ -36,9 +36,9 @@ Um modelo garante a integração de dados.
 
 
 
-### Laboratorio 02 
+ # Laboratorio 02 capitulo 03
 
-# aqui vamos criar uma relação entre tabelas, precisando assim cirar um modelo para a correta analise #  dos dados
+### aqui vamos criar uma relação entre tabelas, precisando assim cirar um modelo para a correta analise #### dos dados
 
 ![Imagem7](/Parte%201/Cap03/arquivos_de_lab03.jpeg)
 
