@@ -45,3 +45,16 @@ Para este Mini-Projeto criaremos diversos relatórios que serão divididos em 4 
 •Visão do Comportamento de Compra do Cliente
 •Visão da Performance das Campanhas de Marketing
 •Visão dos Padrões de Compra no Ponto de Venda (País)
+
+# Visão do cliente 
+
+Utilizando o power bi para identificar informações sobre o cliente e sobre o seu perfil, para o setor de markting tomar decisão relevante para melhorar a capitação de novos ou manter os atuais!
+
+> Conhecer o cliente é fundamental para todos os tipos de mercados!
+
+![Imagem01](/dados_marketing/fotos%20do%20miniprojeto/Visao_cliente.jpeg)
+
+
+# VIsão do Comportamento 
+
+
