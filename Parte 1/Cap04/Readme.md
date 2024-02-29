@@ -52,6 +52,8 @@ Utilizando o power bi para identificar informações sobre o cliente e sobre o s
 
 > Conhecer o cliente é fundamental para todos os tipos de mercados!
 
+
+
 ![Imagem01](/dados_marketing/fotos%20do%20miniprojeto/Visao_cliente.jpeg)
 
 
@@ -61,5 +63,6 @@ Com os quadro graficos sobre os comportamentos de compras dos cliente podemos de
 
 > Uma pessoa que não tem filhoes, geralmente tem mais dinheiro para compras na categoria eletronicos 
 > por exemplo.
+
 
 ![Imagem02](/dados_marketing/fotos%20do%20miniprojeto/Visao_comportamenta.jpeg)
