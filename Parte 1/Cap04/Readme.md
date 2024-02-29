@@ -53,7 +53,7 @@ Utilizando o power bi para identificar informações sobre o cliente e sobre o s
 > Conhecer o cliente é fundamental para todos os tipos de mercados!
 
 
-![Visaocliente](/dados_marketing/imagens_projeto/Visao_cliente.jpeg)
+![Visaocliente](/Parte%201/Cap04/dados_marketing/imagens_projeto/Visao_cliente.jpeg)
 
 
 
