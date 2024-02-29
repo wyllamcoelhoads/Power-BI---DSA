@@ -57,4 +57,9 @@ Utilizando o power bi para identificar informações sobre o cliente e sobre o s
 
 # VIsão do Comportamento 
 
+Com os quadro graficos sobre os comportamentos de compras dos cliente podemos decidir quanto e como oferecer produtos e serviços, a forma de apresentar-los e para quem podemos apresentar para que a efetiva compra seja acertiva.
 
+> Uma pessoa que não tem filhoes, geralmente tem mais dinheiro para compras na categoria eletronicos 
+> por exemplo.
+
+![Imagem02](/dados_marketing/fotos%20do%20miniprojeto/Visao_comportamenta.jpeg)
