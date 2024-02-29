@@ -57,7 +57,7 @@ Utilizando o power bi para identificar informações sobre o cliente e sobre o s
 
 
 
-# VIsão do Comportamento 
+# Visão do Comportamento 
 
 Com os quadro graficos sobre os comportamentos de compras dos cliente podemos decidir quanto e como oferecer produtos e serviços, a forma de apresentar-los e para quem podemos apresentar para que a efetiva compra seja acertiva.
 
@@ -65,3 +65,14 @@ Com os quadro graficos sobre os comportamentos de compras dos cliente podemos de
 > por exemplo.
 
 ![Visaocomporta](/Parte%201/Cap04/dados_marketing/imagens_projeto/Visao_comportamenta.jpeg)
+
+# Visão da performance das campanhas
+
+Aqui podemos identificar quais campanhas foram efetivas eficientes e eficazes no que se proporam a fazer capitar novos cliente, vender ou oferecer algum tipo de receita mais agreciva, essa parte de identificar a regra de negocio é muito importante, porém precisamos identificar esses detalhes com o setor de markting ou o responsavle pelos dados 
+
+![Campanhas](/Parte%201/Cap04/dados_marketing/imagens_projeto/Visao_das_campanhas.jpeg)
+
+
+# Visão dos padrões de compras por região e datas
+
+![Ponto_de_vendas](/Parte%201/Cap04/dados_marketing/imagens_projeto/Visao_por_pontos_vebndas.jpeg)
