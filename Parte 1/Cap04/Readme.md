@@ -64,4 +64,4 @@ Com os quadro graficos sobre os comportamentos de compras dos cliente podemos de
 > Uma pessoa que não tem filhoes, geralmente tem mais dinheiro para compras na categoria eletronicos 
 > por exemplo.
 
-![Visaocomporta](/dados_marketing/imagens_projeto/Visao_comportamenta.jpeg)
+![Visaocomporta](/Parte%201/dados_marketing/imagens_projeto/Visao_comportamenta.jpeg)
