@@ -20,6 +20,6 @@ Os principais Kpis (Key Performance Indicators) da área comercial são indicado
 
 * Satisfação do cliente: medida da safisfação dos clientes com a empresa, produtos e serviços oferecidos.
 
->[!INFO]
+>[!NOTE]
 > Estes Kpis ajudam a identificar pontos fortes e fracos na estratégia de vendas da empresa e permitem tomar  
 > deciçoes mais informadas para melhorar o desempelho da área comercial.
