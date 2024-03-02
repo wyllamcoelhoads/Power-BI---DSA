@@ -45,3 +45,9 @@ Como é uma funcionalidade muito legal para quando precisamos adiconar muitoas p
 
 ![Caminho](/Parte%201/Cap05/imagem/caminho_indice.png)
 
+Apos incluir os botões o power bi começa a assistir automaticamente todas as paginas que estão criadas e as futuras que poderam ser criadas.
+
+Paginas ocultas tambem podem aparecer nos botões do indice e isso pode ser configurado nos atributos do objeto.
+
+
+COntinue visualizando o Grafico disponivel no PDF ou baixe o arquivo pbix que é referente a extenções de dashboard power bi
