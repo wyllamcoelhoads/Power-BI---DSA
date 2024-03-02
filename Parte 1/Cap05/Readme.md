@@ -23,3 +23,12 @@ Os principais Kpis (Key Performance Indicators) da área comercial são indicado
 >[!NOTE]
 > Estes Kpis ajudam a identificar pontos fortes e fracos na estratégia de vendas da empresa e permitem tomar  
 > deciçoes mais informadas para melhorar o desempelho da área comercial.
+
+
+## Criando um grafico com um indice que vai ajudar a mander as informações mais claras.
+
+com um indice incial no grafico podemos ter um grafico ou dois  em cada paginação do arquivo, isso é muito bom quando precisamos mostrar informações com quantidade de dados muito grandes porém precisamos mostrar muitos graficos.
+
+* Exemplo de um grafico ruim com muito elementos e que causa confusão ao ser analisado! 
+
+![Grafi_confuso](/imagem/Um_grafico_ruim.png)
