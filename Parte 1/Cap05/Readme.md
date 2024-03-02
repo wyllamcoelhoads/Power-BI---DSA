@@ -31,4 +31,4 @@ com um indice incial no grafico podemos ter um grafico ou dois  em cada paginaç
 
 * Exemplo de um grafico ruim com muito elementos e que causa confusão ao ser analisado! 
 
-![Campanhas](/Parte%201/Cap04/imagem/Um_grafico_ruim.png)
+![Grafico_ruim](/Parte%201/Cap04/imagem/Um_grafico_ruim.png)
