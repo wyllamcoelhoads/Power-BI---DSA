@@ -32,3 +32,16 @@ com um indice incial no grafico podemos ter um grafico ou dois  em cada paginaç
 * Exemplo de um grafico ruim com muito elementos e que causa confusão ao ser analisado! 
 
 ![Grafico_ruim](/Parte%201/Cap05/imagem/Um_grafico_ruim.png)
+
+Este outro exemplo temos uma imagem de um grafico limpo que apresentas as infomações mais faceis para analise e sem muita dificuldade podemos tirar conclusões 
+
+![Grafico_bom](/Parte%201/Cap05/imagem/Grafico_bom.png)
+
+## Elaborando o projeto 
+
+Neste projeto do capitulo 05 foi realizado a utilizado a função de adicionar botões que o power bi tem integrada aos graficos
+
+Como é uma funcionalidade muito legal para quando precisamos adiconar muitoas paginações no grafico este e o caminho!
+
+![Caminho](/Parte%201/Cap05/imagem/caminho_indice.png)
+
