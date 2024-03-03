@@ -99,3 +99,5 @@ Neste capitulo vou desenvolver novas funções do power bi para apresentar anali
 ![Imagem_feminino](/Parte%201/Cap06/imagem/femenino.png)
 
 
+
+
