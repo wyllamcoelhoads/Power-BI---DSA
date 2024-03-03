@@ -50,4 +50,4 @@ Apos incluir os botões o power bi começa a assistir automaticamente todas as p
 Paginas ocultas tambem podem aparecer nos botões do indice e isso pode ser configurado nos atributos do objeto.
 
 
-COntinue visualizando o Grafico disponivel no PDF ou baixe o arquivo pbix que é referente a extenções de dashboard power bi
+Continue visualizando o Grafico disponivel no PDF ou baixe o arquivo pbix que é referente a extenções de dashboard power bi
