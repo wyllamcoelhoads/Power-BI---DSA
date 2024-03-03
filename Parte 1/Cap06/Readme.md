@@ -60,11 +60,23 @@ Neste capitulo vou desenvolver novas funções do power bi para apresentar anali
 # Desenvolvendo o DashBoard
 
 1. Qual o total de funcionarios atualmente na empresa?
-> Usei o ID_funcionario, alterei o nome da variavel no campos do relatorio cartão, conforme abaixo!
->[!NOTE] A informaçõa deve ser classificada como Contagem apenas, distinta ela conta os valores do id e não 
+
+> [!NOTE]  Usei o ID_funcionario, alterei o nome da variavel no campos do relatorio cartão, conforme abaixo!
+> A informaçõa deve ser classificada como Contagem apenas, distinta ela conta os valores do id e não 
 > apenas os registros.
 
 ![Total_Funcionarios](/Parte%201/Cap06/imagem/Total_Funcionarios.png)
 
+1. Qual o tempo médio de experiência dos funcionarios (em anos)?
 
-ok
+> [!NOTE] Usei o Anos_experiencia, Um cartão como grafico, como é apenas uma informação então é o suficiente  
+> resolve o problema, na imagem o valor de experiencia em anos foi de 11, porém na verdade a media do valor 
+> das experiência em relação a todos os funcionarios, deu um valor de 11.29 alterei no caminho Formatar seu  
+> visual.
+
+[!Experiencia](/Parte%201/Cap06/imagem/Experiencia_anos.png)
+
+> Como foi formatado para aparecer zero casas decimais do valor do balão.
+
+[!formatacao](/Parte%201/Cap06/imagem/casasdecimais.png)
+
