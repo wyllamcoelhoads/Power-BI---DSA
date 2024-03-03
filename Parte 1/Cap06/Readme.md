@@ -55,3 +55,10 @@ Neste capitulo vou desenvolver novas funções do power bi para apresentar anali
 > Este é um exemplo proposto da forma que as informações deveram ser apresentadas!
 
 ![modelo](/Parte%201/Cap06/imagem/MP3.png)
+
+
+# Desenvolvendo o DashBoard
+
+1. Qual o total de funcionarios atualmente na empresa?
+> Usei o ID_funcionario, alterei o nome da variavel no campos do relatorio cartão, conforme abaixo!
+![Total_Funcionarios](/Parte%201/Cap06/imagem/Total_Funcionarios.png)
