@@ -61,4 +61,7 @@ Neste capitulo vou desenvolver novas funções do power bi para apresentar anali
 
 1. Qual o total de funcionarios atualmente na empresa?
 > Usei o ID_funcionario, alterei o nome da variavel no campos do relatorio cartão, conforme abaixo!
+>[!NOTE] A informaçõa deve ser classificada como Contagem apenas, distinta ela conta os valores do id e não 
+> apenas os registros.
+
 ![Total_Funcionarios](/Parte%201/Cap06/imagem/Total_Funcionarios.png)
