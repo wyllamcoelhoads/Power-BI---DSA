@@ -82,7 +82,7 @@ Neste capitulo vou desenvolver novas funções do power bi para apresentar anali
 
 ![Experiencia](/Parte%201/Cap06/imagem/Experiencia_anos.png)
 
-> Como foi formatado para aparecer zero casas decimais do valor do balão.
 
+> Como foi formatado para aparecer zero casas decimais do valor do balão.
 ![formatacao](/Parte%201/Cap06/imagem/casasdecimais.png)
 
