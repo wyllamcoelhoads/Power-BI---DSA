@@ -84,5 +84,16 @@ Neste capitulo vou desenvolver novas funções do power bi para apresentar anali
 
 
 > Como foi formatado para aparecer zero casas decimais do valor do balão.
+
 ![formatacao](/Parte%201/Cap06/imagem/casasdecimais.png)
 
+1. Qual o total e percentual de funcionarios do gênero masculino e femenino?
+
+> [!NOTE]  
+>
+> Usei o Genero para contar os funcionarios e consigo filtrar o genero por masculino e feminino,   
+> colocando o campo em contagem podemos marcar o genero escolhido em cada cartão, conforme as imagens  
+
+![Imagem_masculino](/Parte%201/Cap06/imagem/masculino.png)
+
+![Imagem_feminino](/Parte%201/Cap06/imagem/femenino.png)
