@@ -64,4 +64,7 @@ Neste capitulo vou desenvolver novas funções do power bi para apresentar anali
 >[!NOTE] A informaçõa deve ser classificada como Contagem apenas, distinta ela conta os valores do id e não 
 > apenas os registros.
 
-![Total_Funcionarios](/Parte%201/Cap06/imagem/Total_Funcionarios.png)
+![Total_Funcionarios](/Parte%201/Cap06/imagem/)
+
+
+ok
