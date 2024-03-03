@@ -37,3 +37,21 @@ Estas são apenas algumas das atribuições do RH que podem ser bastantes benefi
 >
 > Cada empresa tem objetivos e necessidades diferentes, esses KPIS são exemplos porém é importente analisar e 
 > observar quais podem ser importantes para retirarmos analises que fazam sentido para cada ambiente 
+
+## O objetivo deste capitulo.
+
+Neste capitulo vou desenvolver novas funções do power bi para apresentar analises relacionadas a área de RH, o intuito do trabalho é responder as seguintes perguntas;
+
+1. Qual o total de funcionarios atualmente na empresa?
+1. Qual o tempo médio de experiência dos funcionarios (em anos)?
+1. Qual o total e percentual de funcionarios do gênero masculino e femenino?
+1. Qual a média salarial mensal?
+1. Qual o total de funcionarios por função?
+1. Qual o percentual de funcionarios disponiveis para fazer horas extras?
+1. Qual o nível de envolvimento dos funcionários no trabalho considerando 4 categoirias: Rim, Baixo, Medio e Alto?
+1. Este item não deve estar no DashBoard, mais precisa ser calculado: Qual o total e o percentual de funcionarios que devem receber promoção? usando (anos de trabalho) usando a regra: Se o funcionario tiver 5 anos ou mais desde a ultima promoção, deve ter a promoção considerada. Caso contrario, a promoção não deve ser considerada.
+
+
+> Este é um exemplo proposto da forma que as informações deveram ser apresentadas!
+
+![modelo](/Parte%201/Cap06/imagem/MP3.png)
