@@ -100,8 +100,8 @@ Neste capitulo vou desenvolver novas funções do power bi para apresentar anali
 
 > [!TIP]
 >
->
->
+> Não existe apenas uma forma de processar e apresentar os dados no power bi, na verdade seguindo a regra
+> universal, nada é feito apenas de uma unica forma, problemas tem diversas soluções e podemos encontralas.
 
 
 
