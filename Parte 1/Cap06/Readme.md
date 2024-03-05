@@ -122,6 +122,10 @@ Neste caminho podemos criar uma nova tabela que será usada para adicionar medid
 ![Total_func](/Parte%201/Cap06/imagem/Total_func.png)
 
 
+Agora podemos usar essa tabela em outros problemas mais complexos, como realizar o calculo de porcentagem!
+
+
+
 
 
 
