@@ -125,7 +125,22 @@ Neste caminho podemos criar uma nova tabela que será usada para adicionar medid
 Agora podemos usar essa tabela em outros problemas mais complexos, como realizar o calculo de porcentagem!
 
 
+![Porcentagens](/Parte%201/Cap06/imagem/percentetotal.png)
 
+Como podemos ver acima as informações de porcentagens foram apresentadas, usando o seguinte codido DAX.
+
+`percentefeminino = medida[totalfuncionario],medida[totalfeminio],0`
+
+Assim podemos usar as outras medidas já criadas para calcular novas medidas!
+
+![percentefemenino](/Parte%201/Cap06/imagem/percentefemenino.png)
+
+
+![percentemasculino](/Parte%201/Cap06/imagem/percentemasculino.png)
+
+`percentemasculino = medida[totalfuncionario],medida[totalmasculino],0`
+
+Esta é uma das vantagens, outra muito importante é que assim o power bi não precisa realizar calculos e recursos desnecessarios em tempo de execução já que a função já esta pre definida em uma nova medida!
 
 
 
