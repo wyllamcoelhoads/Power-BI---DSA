@@ -113,7 +113,14 @@ Preciso calcular a porcentagem dos funcionarios masculinos e femininos conforme 
 
 Porém para fazer isso de uma só fez o processo se torma muito complexo e eu foi acabar não prevendo o que o power bi ira fazer em casos como ZERO ou NEGATIVO na hora da divição, se estiver pensando em parte/todo"
 
-assim posso realizar medidas que irão faciliar as coisas!
+Assim posso realizar medidas que irão faciliar as coisas!
+
+![Nova_tabela](/Parte%201/Cap06/imagem/Nova_tabela.png)
+
+Neste caminho podemos criar uma nova tabela que será usada para adicionar medidas novas(calculos para geração de novos dados com DAX)
+
+![Total_func](/Parte%201/Cap06/imagem/Total_func.png)
+
 
 
 
