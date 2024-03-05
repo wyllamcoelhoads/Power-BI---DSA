@@ -33,3 +33,8 @@ O Dashboard precisava mostrar os seguintes KPIsde Logística:
 1. Total de Entregas de Produtos dos Top5 Vendedores
 1. Total de Entregas com Atraso Por Cidade
 1. Percentual de Entregas Por Status de Entrega
+
+
+Este é o problema que precisa ser resolvido, de cara podemos ver erros na apresentação das informações!
+
+![imagem](/Parte%201/Cap07/imagem/Dashboard_com_erro.png)
