@@ -20,3 +20,16 @@ A logística é fundamental para a operação bem-sucedida de muitas empresas, p
 * Índice  de  retorno  sobre  investimento  (ROI):  o  retorno  financeiro  gerado  pelos investimentos  em  logística,  como  sistemas  de  gerenciamento  de  armazéns  ou  software  de rastreamento de pedidos.
 
 É fundamental entender bem as regras de negocio em analise de dados, a questão é sempre responder pergundas e essas resposatam podem variar de caso a caso dependendo da regra de negocio!
+
+
+## Sobre o projeto 
+
+Tenho um Dashboard, ele esta com erros problemas de apresentações e a possiveis calculos errados, vou realizar a analise e identitificar esses erros para serem corrigidos!
+
+O Dashboard precisava mostrar os seguintes KPIsde Logística:
+1. Total de Entregas no Prazo Por Canal de Entrega
+1. Percentual de Entregas Antecipadas Por Equipede Entrega
+1. Total de Entregas Por Mês
+1. Total de Entregas de Produtos dos Top5 Vendedores
+1. Total de Entregas com Atraso Por Cidade
+1. Percentual de Entregas Por Status de Entrega
