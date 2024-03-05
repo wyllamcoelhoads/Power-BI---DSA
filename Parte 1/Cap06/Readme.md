@@ -103,6 +103,18 @@ Neste capitulo vou desenvolver novas funções do power bi para apresentar anali
 > Não existe apenas uma forma de processar e apresentar os dados no power bi, na verdade seguindo a regra
 > universal, nada é feito apenas de uma unica forma, problemas tem diversas soluções e podemos encontralas.
 
+## Usando as medidadas em tabelas personalizadas
+
+No power bi podemos processar os dados de forma que possamos deixar todo o trabalho mais facil, como precisamos facilidar trabalhos complexos, podemos dividir o trabalho em sub trabalhos assim será mais facil quando tivermos coisas mais complexas para fazer.
+
+* Exemplo:
+
+Preciso calcular a porcentagem dos funcionarios masculinos e femininos conforme imagem acima!
+
+Porém para fazer isso de uma só fez o processo se torma muito complexo e eu foi acabar não prevendo o que o power bi ira fazer em casos como ZERO ou NEGATIVO na hora da divição, se estiver pensando em parte/todo"
+
+assim posso realizar medidas que irão faciliar as coisas!
+
 
 
 
