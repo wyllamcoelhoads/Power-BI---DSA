@@ -142,7 +142,7 @@ Assim podemos usar as outras medidas já criadas para calcular novas medidas!
 
 Esta é uma das vantagens, outra muito importante é que assim o power bi não precisa realizar calculos e recursos desnecessarios em tempo de execução já que a função já esta pre definida em uma nova medida!
 
-Finalizando o projeto é esse foi o resolvido;
+Finalizando o projeto é esse foi o resultado;
 
 ![Final](/Parte%201/Cap06/imagem/Final.png)
 
