@@ -38,3 +38,17 @@ O Dashboard precisava mostrar os seguintes KPIsde Logística:
 Este é o problema que precisa ser resolvido, de cara podemos ver erros na apresentação das informações!
 
 ![imagem](/Parte%201/Cap07/imagem/Dashboard_com_erro.png)
+
+
+## Os erros 
+
+
+1. primeiro erro é apresentado pelo power bi devido a falta de informações nos dados.
+
+1. erro identificado é o grafico sobre (Total de entrega no prazo por canal de entrega) as informações estão incorretas
+
+1. Grafico de pizza (percentual de entrega por equipe) existe muitas fatias devido a quantidade de categorias, causando assim difivuldade de legibilidade
+
+1. No grafico (Total de entregas por mês) tem muitas informações do que esta no seu titulo, esse é um problema pois quanto mais informação mais margem para erro existirá ao publico.
+
+1. 
