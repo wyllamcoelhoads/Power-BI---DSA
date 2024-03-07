@@ -53,3 +53,5 @@ Este é o problema que precisa ser resolvido, de cara podemos ver erros na apres
 
 1. O grafico de rosca não tem condições de analise, pois existe muitas informações nas categorias para serem apresentadas nesse tipo de grafico.
 
+1. No grafico (Total de entregas com atraso por cidade) existe muitas informações e devido a quantidade de informações para esse grafico a analise fica quase impossivel de ver interpretado.
+
