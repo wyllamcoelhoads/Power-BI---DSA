@@ -51,4 +51,5 @@ Este é o problema que precisa ser resolvido, de cara podemos ver erros na apres
 
 1. No grafico (Total de entregas por mês) tem muitas informações do que esta no seu titulo, esse é um problema pois quanto mais informação mais margem para erro existirá ao publico.
 
-1. 
+1. O grafico de rosca não tem condições de analise, pois existe muitas informações nas categorias para serem apresentadas nesse tipo de grafico.
+
